@@ -4,7 +4,7 @@
             var currentCounter = document.getElementById("counter").innerText;
 
             // Display an alert with the un-incremented value
-            alert("Un-incremented Value: " + currentCounter);
+            // alert("Un-incremented Value: " + currentCounter);
 
             // Increment the counter value
             var newCounter = parseInt(currentCounter) + 1;
